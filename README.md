@@ -4,9 +4,9 @@ Video demo https://youtu.be/d1d4Ns_IQkI
 ## Overview
 This project is a mobile newsfeed application built using Flutter. The app allows users to view a newsfeed, add new posts, like/unlike posts, and save posts for later viewing. The app ensures that the user interface is intuitive and user-friendly, adhering to best practices in UI/UX design.
 
-<img width="300" alt="Screenshot 2024-07-25 at 10 16 20 AM" src="https://github.com/user-attachments/assets/83d2582e-2cef-429c-a9f0-dfb22e6fc5b4">
-<img width="300" alt="Screenshot 2024-07-25 at 10 16 44 AM" src="https://github.com/user-attachments/assets/0da05941-fce4-4a36-a196-caadb6692d7e">
-<img width="300" alt="Screenshot 2024-07-25 at 10 16 30 AM" src="https://github.com/user-attachments/assets/b98b697a-e7cb-4a33-b655-65813bfba44d">
+<img width="280" alt="Screenshot 2024-07-25 at 10 16 20 AM" src="https://github.com/user-attachments/assets/83d2582e-2cef-429c-a9f0-dfb22e6fc5b4">
+<img width="280" alt="Screenshot 2024-07-25 at 10 16 44 AM" src="https://github.com/user-attachments/assets/0da05941-fce4-4a36-a196-caadb6692d7e">
+<img width="280" alt="Screenshot 2024-07-25 at 10 16 30 AM" src="https://github.com/user-attachments/assets/b98b697a-e7cb-4a33-b655-65813bfba44d">
 
 ## Features
 - **View Newsfeed:** Display a list of posts, including the user's name, post content, timestamp, like count, and like button.
