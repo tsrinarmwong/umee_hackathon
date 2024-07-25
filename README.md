@@ -16,6 +16,18 @@ This project is a mobile newsfeed application built using Flutter. The app allow
 - **Save Post:** Users can save posts for later viewing, with saved posts accessible from a dedicated screen.
 - **User Authentication:** Simple user authentication with a username entry for demonstration purposes.
 
+## Tools and Technologies
+This project uses the following tools and technologies:
+
+- **Flutter:** The framework used to build the mobile application.
+- **Dart:** The programming language used with Flutter.
+- **BLoC (Business Logic Component):** A state management solution that helps separate business logic from UI components.
+- **Hive:** A lightweight and fast key-value database used for local storage of posts, user information, and saved posts.
+- **Provider:** A dependency injection system used for state management and accessing shared objects like the user.
+- **Intl:** A package used for internationalization and localization, particularly for formatting dates.
+
+Make sure you have these dependencies installed when setting up the project.
+
 ## Getting Started
 ### Prerequisites
 - Flutter SDK
@@ -68,12 +80,6 @@ This project is a mobile newsfeed application built using Flutter. The app allow
 
 ## Maintainers
 - Timo (Thitipun) Srinarmwong
-
-## Helpful Hints
-- Ensure the code is well-structured, readable, and maintainable.
-- The UI should be intuitive and user-friendly.
-- Additional features should add value to the newsfeed.
-- Ensure the README file is clear and helpful.
 
 ## TODO Bugs
 - Toggle like/unlike per user.
